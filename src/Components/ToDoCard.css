@@ -1,0 +1,42 @@
+.todo-card {
+    height: 300px;
+    width: 250px;
+    margin: 50px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: .5s;
+    overflow: hidden;
+}
+
+.todo-card:hover {
+    transform: scale(1.1);
+}
+
+.title-input {
+    background-color: blanchedalmond;
+    border: 0;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.title-input:hover {
+    background-color: #fff5e6;
+}
+
+.title-input:focus {
+    background-color: #fff5e6;
+    outline: none;
+}
+
+.new-note-input {
+    background-color: #fff5e6;
+    border: 0;
+    font-size: 1.25em;
+    width: 340px;
+}
+
+.new-note-input:hover {
+    border: 2px solid;
+}
