@@ -1,0 +1,18 @@
+[33mcommit b0e55b6c5deb24e8d6f9d2c52b01f19112ef86b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 3b4b223 3a19505
+Author: karlcc1 <karl.cc14@gmail.com>
+Date:   Wed Aug 28 23:08:09 2024 +1200
+
+    Merge branch 'main' of https://github.com/karlcc1/vite-react-to-do
+
+[33mcommit 3b4b223ec4fb56202a84e5ef88ca903509962d66[m[33m ([m[1;32mmaster[m[33m)[m
+Author: karlcc1 <karl.cc14@gmail.com>
+Date:   Wed Aug 28 18:56:21 2024 +1200
+
+    Initial commit
+
+[33mcommit 3a195051f18bd83095b9116132f7fd05ccbfd8e6[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: karlcc1 <65652092+karlcc1@users.noreply.github.com>
+Date:   Wed Aug 28 18:51:55 2024 +1200
+
+    Initial commit
